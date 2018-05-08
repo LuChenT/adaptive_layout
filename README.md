@@ -1,0 +1,2 @@
+adaptive_layout practice
+===========
